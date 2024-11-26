@@ -1,4 +1,4 @@
-# Kuky - Find Support Through Shared Experiences
+# Kuky - Connecting people on the same journey
 
 [API Example](https://youtu.be/9QAZYWDjVDA?si=R7-7cJyHQSWOACB8)
 
